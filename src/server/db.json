@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Nike Air Max Excee",
+      "about": "These sneakers are part of the legendary Air Max family with a visible Air unit in the heel for cushioning and comfort.",
+      "img": "/src/assets/image.png",
+      "price": "$200",
+      "status": true
+    },
+    {
+      "id": "2",
+      "name": "Nike Air",
+      "about": "These sneakers are part of the legendary Air Max family with a visible Air unit in the heel for cushioning and comfort.",
+      "img": "/src/assets/image.png",
+      "price": "$200",
+      "status": false
+    }
+  ]
+}
